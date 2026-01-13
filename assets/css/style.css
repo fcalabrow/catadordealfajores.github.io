@@ -1,0 +1,127 @@
+/* Estilos básicos para el blog */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header h1 a {
+    color: #333;
+    text-decoration: none;
+}
+
+header p {
+    color: #666;
+}
+
+main {
+    min-height: 400px;
+}
+
+article {
+    margin-bottom: 40px;
+}
+
+article header h1 {
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.meta {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 20px;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.content img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.content p {
+    margin-bottom: 15px;
+}
+
+.content strong {
+    font-weight: 600;
+}
+
+.content a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}
+
+.tags {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.tag {
+    display: inline-block;
+    background: #f0f0f0;
+    padding: 3px 8px;
+    margin-right: 5px;
+    border-radius: 3px;
+    font-size: 0.85em;
+}
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 2px solid #eee;
+    text-align: center;
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* Lista de posts */
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+ul li a {
+    font-size: 1.1em;
+    color: #333;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: #0066cc;
+}
+

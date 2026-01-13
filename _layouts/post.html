@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <p class="meta">
+            Por {{ page.author }} | 
+            {{ page.date | date: "%d de %B de %Y" }} |
+            {% if page.categories %}
+                Categorías: {{ page.categories | join: ", " }}
+            {% endif %}
+        </p>
+    </header>
+    
+    <div class="content">
+        {{ content }}
+    </div>
+    
+    <footer>
+        {% if page.tags %}
+        <p class="tags">
+            Tags: 
+            {% for tag in page.tags %}
+                <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </p>
+        {% endif %}
+    </footer>
+</article>
+
