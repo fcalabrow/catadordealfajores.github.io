@@ -3,7 +3,7 @@ layout: post
 title: Exotismo paraguayo
 date: 2018-09-03 17:13:16
 slug: exotismo-paraguayo
-permalink: /catador_de_alfajores.github.io/exotismo-paraguayo/
+permalink: /exotismo-paraguayo/
 author: fcalabro
 categories:
   - Reseñas

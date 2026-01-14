@@ -3,7 +3,7 @@ layout: post
 title: Muy burgués
 date: 2016-08-26 23:20:49
 slug: muy-burgues
-permalink: /catador_de_alfajores.github.io/muy-burgues/
+permalink: /muy-burgues/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,7 +3,7 @@ layout: post
 title: ¿Alfajores? de mousse
 date: 2016-06-20 15:12:09
 slug: alfajores-de-mousse
-permalink: /catador_de_alfajores.github.io/alfajores-de-mousse/
+permalink: /alfajores-de-mousse/
 author: fcalabro
 categories:
   - Reseñas

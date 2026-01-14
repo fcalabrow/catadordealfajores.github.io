@@ -3,7 +3,7 @@ layout: post
 title: Los deudores del Havanna
 date: 2016-11-05 12:08:13
 slug: los-deudores-del-havanna
-permalink: /catador_de_alfajores.github.io/los-deudores-del-havanna/
+permalink: /los-deudores-del-havanna/
 author: fcalabro
 categories:
   - Reseñas

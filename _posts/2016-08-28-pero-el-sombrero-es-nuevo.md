@@ -3,7 +3,7 @@ layout: post
 title: Pero el sombrero es nuevo
 date: 2016-08-28 14:57:54
 slug: pero-el-sombrero-es-nuevo
-permalink: /catador_de_alfajores.github.io/pero-el-sombrero-es-nuevo/
+permalink: /pero-el-sombrero-es-nuevo/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,7 +3,7 @@ layout: post
 title: Una cobertura espantosa
 date: 2016-10-27 20:16:49
 slug: una-cobertura-espantosa
-permalink: /catador_de_alfajores.github.io/una-cobertura-espantosa/
+permalink: /una-cobertura-espantosa/
 author: fcalabro
 categories:
   - Reseñas

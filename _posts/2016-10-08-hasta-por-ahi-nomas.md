@@ -3,7 +3,7 @@ layout: post
 title: El alfajor apócrifo
 date: 2016-10-08 14:26:36
 slug: hasta-por-ahi-nomas
-permalink: /catador_de_alfajores.github.io/hasta-por-ahi-nomas/
+permalink: /hasta-por-ahi-nomas/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,7 +3,7 @@ layout: post
 title: Una loa al dulce de leche
 date: 2017-10-10 10:00:09
 slug: una-loa-al-dulce-de-leche
-permalink: /catador_de_alfajores.github.io/una-loa-al-dulce-de-leche/
+permalink: /una-loa-al-dulce-de-leche/
 author: fcalabro
 categories:
   - Reseñas

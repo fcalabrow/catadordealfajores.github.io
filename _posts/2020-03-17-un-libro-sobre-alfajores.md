@@ -3,7 +3,7 @@ layout: post
 title: Un libro sobre alfajores
 date: 2020-03-17 02:07:30
 slug: un-libro-sobre-alfajores
-permalink: /catador_de_alfajores.github.io/un-libro-sobre-alfajores/
+permalink: /un-libro-sobre-alfajores/
 author: fcalabro
 categories:
   - Dislates

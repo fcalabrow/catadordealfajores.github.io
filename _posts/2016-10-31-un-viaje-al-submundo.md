@@ -3,7 +3,7 @@ layout: post
 title: Viaje al submundo
 date: 2016-10-31 19:20:33
 slug: un-viaje-al-submundo
-permalink: /catador_de_alfajores.github.io/un-viaje-al-submundo/
+permalink: /un-viaje-al-submundo/
 author: fcalabro
 categories:
   - Reseñas

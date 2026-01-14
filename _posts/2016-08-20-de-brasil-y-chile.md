@@ -3,7 +3,7 @@ layout: post
 title: Brasil y Chile
 date: 2016-08-20 13:10:57
 slug: de-brasil-y-chile
-permalink: /catador_de_alfajores.github.io/de-brasil-y-chile/
+permalink: /de-brasil-y-chile/
 author: fcalabro
 categories:
   - Reseñas

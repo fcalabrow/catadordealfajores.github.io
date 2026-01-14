@@ -3,7 +3,7 @@ layout: post
 title: Sin pena ni gloria
 date: 2016-07-19 22:12:57
 slug: sin-pena-ni-gloria
-permalink: /catador_de_alfajores.github.io/sin-pena-ni-gloria/
+permalink: /sin-pena-ni-gloria/
 author: fcalabro
 categories:
   - Reseñas

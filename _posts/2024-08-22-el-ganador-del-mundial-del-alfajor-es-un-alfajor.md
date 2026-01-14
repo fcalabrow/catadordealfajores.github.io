@@ -3,7 +3,7 @@ layout: post
 title: El ganador del Mundial del Alfajor, ¿es un alfajor?
 date: 2024-08-22 23:32:42
 slug: el-ganador-del-mundial-del-alfajor-es-un-alfajor
-permalink: /catador_de_alfajores.github.io/el-ganador-del-mundial-del-alfajor-es-un-alfajor/
+permalink: /el-ganador-del-mundial-del-alfajor-es-un-alfajor/
 author: fcalabro
 categories:
   - Dislates

@@ -3,7 +3,7 @@ layout: post
 title: Canciones de moda
 date: 2025-11-18 17:06:33
 slug: guolis-pistacho
-permalink: /catador_de_alfajores.github.io/guolis-pistacho/
+permalink: /guolis-pistacho/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,7 +3,7 @@ layout: post
 title: "Eso no es un alfajor"
 date: 2019-04-04 17:02:06
 slug: eso-no-es-un-alfajor
-permalink: /catador_de_alfajores.github.io/eso-no-es-un-alfajor/
+permalink: /eso-no-es-un-alfajor/
 author: fcalabro
 categories:
   - Dislates

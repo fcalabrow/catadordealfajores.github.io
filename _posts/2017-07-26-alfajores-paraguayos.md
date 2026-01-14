@@ -3,7 +3,7 @@ layout: post
 title: Paraguay tiene alfajores (mejores que los de acá)
 date: 2017-07-26 11:11:37
 slug: alfajores-paraguayos
-permalink: /catador_de_alfajores.github.io/alfajores-paraguayos/
+permalink: /alfajores-paraguayos/
 author: fcalabro
 categories:
   - Reseñas

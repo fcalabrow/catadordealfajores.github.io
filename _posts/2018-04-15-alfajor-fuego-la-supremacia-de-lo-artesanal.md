@@ -3,7 +3,7 @@ layout: post
 title: La supremacía de lo artesanal
 date: 2018-04-15 23:33:30
 slug: alfajor-fuego-la-supremacia-de-lo-artesanal
-permalink: /catador_de_alfajores.github.io/alfajor-fuego-la-supremacia-de-lo-artesanal/
+permalink: /alfajor-fuego-la-supremacia-de-lo-artesanal/
 author: fcalabro
 categories:
   - Reseñas

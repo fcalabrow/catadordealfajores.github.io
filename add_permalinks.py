@@ -27,8 +27,8 @@ def add_permalink_to_post(file_path):
         
         slug = slug_match.group(1).strip()
         
-        # Crear permalink
-        permalink = f"{BASEURL}/{slug}/" if BASEURL else f"/{slug}/"
+        # Crear permalink (sin baseurl, Jekyll lo agrega automáticamente)
+        permalink = f"/{slug}/"
         
         # Buscar el front matter (entre --- y ---)
         front_matter_pattern = r'^(---\s*\n)(.*?)(\n---\s*\n)'

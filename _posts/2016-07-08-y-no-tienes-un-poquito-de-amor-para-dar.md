@@ -3,7 +3,7 @@ layout: post
 title: Y no tienes un poquito de amor para dar
 date: 2016-07-08 13:19:23
 slug: y-no-tienes-un-poquito-de-amor-para-dar
-permalink: /catador_de_alfajores.github.io/y-no-tienes-un-poquito-de-amor-para-dar/
+permalink: /y-no-tienes-un-poquito-de-amor-para-dar/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,7 +3,7 @@ layout: post
 title: La consagración del Capitán
 date: 2016-07-15 04:22:30
 slug: la-consagracion-del-capitan
-permalink: /catador_de_alfajores.github.io/la-consagracion-del-capitan/
+permalink: /la-consagracion-del-capitan/
 author: fcalabro
 categories:
   - Reseñas

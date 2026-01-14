@@ -3,7 +3,7 @@ layout: post
 title: Los silenciosos alfajores de San Martín
 date: 2016-08-02 00:01:50
 slug: los-silenciosos-alfajores-de-san-martin
-permalink: /catador_de_alfajores.github.io/los-silenciosos-alfajores-de-san-martin/
+permalink: /los-silenciosos-alfajores-de-san-martin/
 author: fcalabro
 categories:
   - Reseñas

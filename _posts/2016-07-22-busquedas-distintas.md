@@ -3,7 +3,7 @@ layout: post
 title: En otra dirección
 date: 2016-07-22 16:46:27
 slug: busquedas-distintas
-permalink: /catador_de_alfajores.github.io/busquedas-distintas/
+permalink: /busquedas-distintas/
 author: fcalabro
 categories:
   - Reseñas

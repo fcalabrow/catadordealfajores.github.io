@@ -3,7 +3,7 @@ layout: post
 title: El hombre que se tatuó a Jorgito
 date: 2018-04-30 15:11:14
 slug: el-hombre-que-se-tatuo-a-jorgito
-permalink: /catador_de_alfajores.github.io/el-hombre-que-se-tatuo-a-jorgito/
+permalink: /el-hombre-que-se-tatuo-a-jorgito/
 author: fcalabro
 categories:
   - Entrevistas

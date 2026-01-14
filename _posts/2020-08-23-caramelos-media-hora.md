@@ -3,7 +3,7 @@ layout: post
 title: Pasado, presente y ¿futuro? de los caramelos Media Hora
 date: 2020-08-23 15:20:48
 slug: caramelos-media-hora
-permalink: /catador_de_alfajores.github.io/caramelos-media-hora/
+permalink: /caramelos-media-hora/
 author: fcalabro
 categories:
   - Reseñas

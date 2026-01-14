@@ -3,7 +3,7 @@ layout: post
 title: El nuevo alfajor Havanna
 date: 2024-02-20 22:04:59
 slug: el-nuevo-alfajor-havanna
-permalink: /catador_de_alfajores.github.io/el-nuevo-alfajor-havanna/
+permalink: /el-nuevo-alfajor-havanna/
 author: fcalabro
 categories:
   - Reseñas

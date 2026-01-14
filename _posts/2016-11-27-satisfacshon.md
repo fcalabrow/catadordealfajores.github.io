@@ -3,7 +3,7 @@ layout: post
 title: Satisfacshon
 date: 2016-11-27 11:00:58
 slug: satisfacshon
-permalink: /catador_de_alfajores.github.io/satisfacshon/
+permalink: /satisfacshon/
 author: fcalabro
 categories:
   - Reseñas

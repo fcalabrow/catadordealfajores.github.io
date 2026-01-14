@@ -3,7 +3,7 @@ layout: post
 title: El futuro llegó (hace rato)
 date: 2018-12-16 07:24:22
 slug: guolis-el-futuro-llego-hace-rato
-permalink: /catador_de_alfajores.github.io/guolis-el-futuro-llego-hace-rato/
+permalink: /guolis-el-futuro-llego-hace-rato/
 author: fcalabro
 categories:
   - Dislates

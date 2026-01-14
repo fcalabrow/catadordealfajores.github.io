@@ -3,7 +3,7 @@ layout: post
 title: Nuevo alfajor Havanna Super Dulce de Leche: la reseña definitiva
 date: 2022-01-31 00:23:27
 slug: alfajor-havanna-super-dulce-de-leche
-permalink: /catador_de_alfajores.github.io/alfajor-havanna-super-dulce-de-leche/
+permalink: /alfajor-havanna-super-dulce-de-leche/
 author: fcalabro
 categories:
   - Reseñas

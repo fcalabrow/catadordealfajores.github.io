@@ -3,7 +3,7 @@ layout: post
 title: Un homenaje al género
 date: 2016-09-05 22:25:43
 slug: un-homenaje-al-genero
-permalink: /catador_de_alfajores.github.io/un-homenaje-al-genero/
+permalink: /un-homenaje-al-genero/
 author: fcalabro
 categories:
   - Reseñas

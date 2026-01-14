@@ -3,7 +3,7 @@ layout: post
 title: ¿Sabías que el Jorgito blanco no es igual que el Havanna?
 date: 2016-06-30 17:21:12
 slug: sabias-que-el-jorgito-blanco-no-es-igual-que-el-havanna
-permalink: /catador_de_alfajores.github.io/sabias-que-el-jorgito-blanco-no-es-igual-que-el-havanna/
+permalink: /sabias-que-el-jorgito-blanco-no-es-igual-que-el-havanna/
 author: fcalabro
 categories:
   - Reseñas

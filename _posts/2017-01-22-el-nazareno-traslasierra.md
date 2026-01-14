@@ -3,7 +3,7 @@ layout: post
 title: Alfajores El Nazareno, Traslasierra
 date: 2017-01-22 18:04:03
 slug: el-nazareno-traslasierra
-permalink: /catador_de_alfajores.github.io/el-nazareno-traslasierra/
+permalink: /el-nazareno-traslasierra/
 author: fcalabro
 categories:
   - Reseñas

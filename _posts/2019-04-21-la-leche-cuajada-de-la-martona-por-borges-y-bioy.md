@@ -3,7 +3,7 @@ layout: post
 title: La leche cuajada de La Martona
 date: 2019-04-21 10:46:05
 slug: la-leche-cuajada-de-la-martona-por-borges-y-bioy
-permalink: /catador_de_alfajores.github.io/la-leche-cuajada-de-la-martona-por-borges-y-bioy/
+permalink: /la-leche-cuajada-de-la-martona-por-borges-y-bioy/
 author: fcalabro
 categories:
   - Dislates

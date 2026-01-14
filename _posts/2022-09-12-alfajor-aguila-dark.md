@@ -3,7 +3,7 @@ layout: post
 title: Alfajor Águila Dark: todo el poder al chocolate
 date: 2022-09-12 23:41:37
 slug: alfajor-aguila-dark
-permalink: /catador_de_alfajores.github.io/alfajor-aguila-dark/
+permalink: /alfajor-aguila-dark/
 author: fcalabro
 categories:
   - Reseñas

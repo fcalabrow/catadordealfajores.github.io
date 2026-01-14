@@ -3,7 +3,7 @@ layout: post
 title: Where to buy alfajores in Australia
 date: 2018-12-07 15:26:17
 slug: where-to-buy-alfajores-in-australia
-permalink: /catador_de_alfajores.github.io/where-to-buy-alfajores-in-australia/
+permalink: /where-to-buy-alfajores-in-australia/
 author: fcalabro
 categories:
   - Dislates

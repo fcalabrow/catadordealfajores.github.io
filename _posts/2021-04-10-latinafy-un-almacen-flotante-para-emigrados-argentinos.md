@@ -3,7 +3,7 @@ layout: post
 title: Latinafy: un almacén flotante para emigrados argentinos
 date: 2021-04-10 12:03:37
 slug: latinafy-un-almacen-flotante-para-emigrados-argentinos
-permalink: /catador_de_alfajores.github.io/latinafy-un-almacen-flotante-para-emigrados-argentinos/
+permalink: /latinafy-un-almacen-flotante-para-emigrados-argentinos/
 author: fcalabro
 categories:
   - Content lab
