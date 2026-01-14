@@ -1,8 +1,8 @@
 # Configuración de Jekyll para GitHub Pages
 title: Catador de alfajores
 description: Blog sobre alfajores argentinos
-url: https://catador_de_alfajores.github.io
-baseurl: ""  # Vacío si el repo se llama catador_de_alfajores.github.io
+url: https://fcalabrow.github.io
+baseurl: "/catador_de_alfajores.github.io"  # Subdirectorio donde está el sitio
 
 # Configuración de Jekyll
 markdown: kramdown
