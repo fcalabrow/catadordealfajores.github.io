@@ -3,6 +3,7 @@ layout: post
 title: Bimbo, mi buen amigo
 date: 2016-06-27 15:05:25
 slug: bimbo-mi-buen-amigo
+permalink: /catador_de_alfajores.github.io/bimbo-mi-buen-amigo/
 author: fcalabro
 categories:
   - Reseñas

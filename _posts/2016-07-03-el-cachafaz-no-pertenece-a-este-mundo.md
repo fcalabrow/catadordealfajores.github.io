@@ -3,6 +3,7 @@ layout: post
 title: Cierren todo
 date: 2016-07-03 16:49:46
 slug: el-cachafaz-no-pertenece-a-este-mundo
+permalink: /catador_de_alfajores.github.io/el-cachafaz-no-pertenece-a-este-mundo/
 author: fcalabro
 categories:
   - Reseñas

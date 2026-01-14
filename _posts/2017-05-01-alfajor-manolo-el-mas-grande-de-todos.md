@@ -3,6 +3,7 @@ layout: post
 title: El más grande de todos
 date: 2017-05-01 10:29:55
 slug: alfajor-manolo-el-mas-grande-de-todos
+permalink: /catador_de_alfajores.github.io/alfajor-manolo-el-mas-grande-de-todos/
 author: fcalabro
 categories:
   - Reseñas

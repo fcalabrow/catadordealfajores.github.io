@@ -3,6 +3,7 @@ layout: post
 title: Don't worry
 date: 2025-08-13 21:43:16
 slug: esta-todo-bien-rasta-tricolor
+permalink: /catador_de_alfajores.github.io/esta-todo-bien-rasta-tricolor/
 author: fcalabro
 categories:
   - Reseñas

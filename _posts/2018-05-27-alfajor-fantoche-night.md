@@ -3,6 +3,7 @@ layout: post
 title: El cacao como bandera: nuevo alfajor Fantoche Night
 date: 2018-05-27 12:47:43
 slug: alfajor-fantoche-night
+permalink: /catador_de_alfajores.github.io/alfajor-fantoche-night/
 author: fcalabro
 categories:
   - Reseñas

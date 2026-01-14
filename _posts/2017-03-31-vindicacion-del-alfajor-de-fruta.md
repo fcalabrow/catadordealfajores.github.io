@@ -3,6 +3,7 @@ layout: post
 title: Vindicación del alfajor de fruta
 date: 2017-03-31 13:20:20
 slug: vindicacion-del-alfajor-de-fruta
+permalink: /catador_de_alfajores.github.io/vindicacion-del-alfajor-de-fruta/
 author: fcalabro
 categories:
   - Reseñas

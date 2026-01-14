@@ -3,6 +3,7 @@ layout: post
 title: ¿Volvieron? Todo sobre las obleas Champagne
 date: 2018-08-17 11:25:56
 slug: volvieron
+permalink: /catador_de_alfajores.github.io/volvieron/
 author: fcalabro
 categories:
   - Reseñas

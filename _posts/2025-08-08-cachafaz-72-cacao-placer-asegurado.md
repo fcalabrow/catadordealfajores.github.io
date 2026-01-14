@@ -3,6 +3,7 @@ layout: post
 title: Placer asegurado
 date: 2025-08-08 20:12:06
 slug: cachafaz-72-cacao-placer-asegurado
+permalink: /catador_de_alfajores.github.io/cachafaz-72-cacao-placer-asegurado/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,6 +3,7 @@ layout: post
 title: Sin rumbo
 date: 2025-01-26 23:45:49
 slug: havanna-picante-sin-rumbo
+permalink: /catador_de_alfajores.github.io/havanna-picante-sin-rumbo/
 author: fcalabro
 categories:
   - Reseñas

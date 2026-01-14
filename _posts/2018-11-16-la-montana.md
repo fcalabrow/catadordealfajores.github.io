@@ -3,6 +3,7 @@ layout: post
 title: La Montaña
 date: 2018-11-16 21:30:03
 slug: la-montana
+permalink: /catador_de_alfajores.github.io/la-montana/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,6 +3,7 @@ layout: post
 title: Capitán Freddo
 date: 2018-04-24 16:58:21
 slug: capitan-freddo
+permalink: /catador_de_alfajores.github.io/capitan-freddo/
 author: fcalabro
 categories:
   - Reseñas

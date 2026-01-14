@@ -3,6 +3,7 @@ layout: post
 title: Néctar de los dioses
 date: 2018-06-16 23:23:25
 slug: nectar-de-los-dioses
+permalink: /catador_de_alfajores.github.io/nectar-de-los-dioses/
 author: fcalabro
 categories:
   - Reseñas

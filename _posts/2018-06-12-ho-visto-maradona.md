@@ -3,6 +3,7 @@ layout: post
 title: Ho visto Maradona
 date: 2018-06-12 19:40:03
 slug: ho-visto-maradona
+permalink: /catador_de_alfajores.github.io/ho-visto-maradona/
 author: fcalabro
 categories:
   - Rescates

@@ -3,6 +3,7 @@ layout: post
 title: Alfajores de Puerto Madryn
 date: 2016-12-12 23:53:51
 slug: tres-alfajores-de-puerto-madryn
+permalink: /catador_de_alfajores.github.io/tres-alfajores-de-puerto-madryn/
 author: fcalabro
 categories:
   - Reseñas

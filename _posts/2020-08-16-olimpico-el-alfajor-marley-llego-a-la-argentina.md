@@ -3,6 +3,7 @@ layout: post
 title: Un león entre elefantes: el alfajor Marley llegó a la Argentina
 date: 2020-08-16 14:08:42
 slug: olimpico-el-alfajor-marley-llego-a-la-argentina
+permalink: /catador_de_alfajores.github.io/olimpico-el-alfajor-marley-llego-a-la-argentina/
 author: fcalabro
 categories:
   - Reseñas

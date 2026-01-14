@@ -3,6 +3,7 @@ layout: post
 title: Quiero emborrachar mi corazón
 date: 2018-07-29 16:36:23
 slug: entre-dos-alfajores-espirituosos
+permalink: /catador_de_alfajores.github.io/entre-dos-alfajores-espirituosos/
 author: fcalabro
 categories:
   - Reseñas

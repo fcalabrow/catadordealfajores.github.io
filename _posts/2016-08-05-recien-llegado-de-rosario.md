@@ -3,6 +3,7 @@ layout: post
 title: Recién llegado de Rosario
 date: 2016-08-05 01:29:38
 slug: recien-llegado-de-rosario
+permalink: /catador_de_alfajores.github.io/recien-llegado-de-rosario/
 author: fcalabro
 categories:
   - Reseñas

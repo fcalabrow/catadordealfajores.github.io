@@ -3,6 +3,7 @@ layout: post
 title: Neuquinos
 date: 2016-10-02 16:00:02
 slug: neuquinos
+permalink: /catador_de_alfajores.github.io/neuquinos/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,6 +3,7 @@ layout: post
 title: El alfajómano originario
 date: 2016-12-03 11:00:24
 slug: el-alfajomano-originario
+permalink: /catador_de_alfajores.github.io/el-alfajomano-originario/
 author: fcalabro
 categories:
   - Entrevistas

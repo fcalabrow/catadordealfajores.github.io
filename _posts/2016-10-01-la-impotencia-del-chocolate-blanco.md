@@ -3,6 +3,7 @@ layout: post
 title: La impotencia del chocolate blanco
 date: 2016-10-01 16:09:34
 slug: la-impotencia-del-chocolate-blanco
+permalink: /catador_de_alfajores.github.io/la-impotencia-del-chocolate-blanco/
 author: fcalabro
 categories:
   - Reseñas

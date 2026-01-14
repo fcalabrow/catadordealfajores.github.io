@@ -3,6 +3,7 @@ layout: post
 title: "Alfajor" de arroz
 date: 2018-08-09 10:52:24
 slug: alfajor-de-arroz
+permalink: /catador_de_alfajores.github.io/alfajor-de-arroz/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,6 +3,7 @@ layout: post
 title: El Capitán del Espacio, Riquelme y el Jorgito
 date: 2016-06-10 15:41:04
 slug: el-capitan-del-espacio-riquelme-y-el-jorgito
+permalink: /catador_de_alfajores.github.io/el-capitan-del-espacio-riquelme-y-el-jorgito/
 author: fcalabro
 categories:
   - Reseñas

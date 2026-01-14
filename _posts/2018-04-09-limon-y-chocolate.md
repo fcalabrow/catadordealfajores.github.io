@@ -3,6 +3,7 @@ layout: post
 title: Limón y chocolate
 date: 2018-04-09 19:17:18
 slug: limon-y-chocolate
+permalink: /catador_de_alfajores.github.io/limon-y-chocolate/
 author: fcalabro
 categories:
   - Reseñas

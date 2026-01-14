@@ -3,6 +3,7 @@ layout: post
 title: Jóvenes y viejos
 date: 2016-07-29 19:54:08
 slug: suchardvscachafaz
+permalink: /catador_de_alfajores.github.io/suchardvscachafaz/
 author: fcalabro
 categories:
   - Reseñas

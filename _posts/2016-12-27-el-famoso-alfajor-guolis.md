@@ -3,6 +3,7 @@ layout: post
 title: El famoso alfajor Guolis
 date: 2016-12-27 23:08:36
 slug: el-famoso-alfajor-guolis
+permalink: /catador_de_alfajores.github.io/el-famoso-alfajor-guolis/
 author: fcalabro
 categories:
   - Reseñas

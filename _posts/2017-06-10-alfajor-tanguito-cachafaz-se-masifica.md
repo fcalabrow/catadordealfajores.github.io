@@ -3,6 +3,7 @@ layout: post
 title: Cachafaz apuesta a la masificación
 date: 2017-06-10 10:48:33
 slug: alfajor-tanguito-cachafaz-se-masifica
+permalink: /catador_de_alfajores.github.io/alfajor-tanguito-cachafaz-se-masifica/
 author: fcalabro
 categories:
   - Reseñas

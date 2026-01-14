@@ -3,6 +3,7 @@ layout: post
 title: Resistiré
 date: 2016-07-11 22:50:01
 slug: resistire
+permalink: /catador_de_alfajores.github.io/resistire/
 author: fcalabro
 categories:
   - Reseñas

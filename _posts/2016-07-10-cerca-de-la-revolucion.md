@@ -3,6 +3,7 @@ layout: post
 title: Cerca de la revolución
 date: 2016-07-10 13:01:59
 slug: cerca-de-la-revolucion
+permalink: /catador_de_alfajores.github.io/cerca-de-la-revolucion/
 author: fcalabro
 categories:
   - Reseñas

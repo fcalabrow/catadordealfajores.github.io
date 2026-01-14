@@ -3,6 +3,7 @@ layout: post
 title: Cuando sea grande quiero ser un Cachafaz
 date: 2016-07-07 16:43:43
 slug: cuando-sea-grande-quiero-ser-un-cachafaz
+permalink: /catador_de_alfajores.github.io/cuando-sea-grande-quiero-ser-un-cachafaz/
 author: fcalabro
 categories:
   - Reseñas

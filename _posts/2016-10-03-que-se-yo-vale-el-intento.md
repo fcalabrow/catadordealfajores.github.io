@@ -3,6 +3,7 @@ layout: post
 title: Lo que vale es la intención
 date: 2016-10-03 22:22:34
 slug: que-se-yo-vale-el-intento
+permalink: /catador_de_alfajores.github.io/que-se-yo-vale-el-intento/
 author: fcalabro
 categories:
   - Reseñas

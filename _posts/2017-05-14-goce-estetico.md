@@ -3,6 +3,7 @@ layout: post
 title: Goce estético
 date: 2017-05-14 11:34:20
 slug: goce-estetico
+permalink: /catador_de_alfajores.github.io/goce-estetico/
 author: fcalabro
 categories:
   - Reseñas

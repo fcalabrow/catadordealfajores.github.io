@@ -3,6 +3,7 @@ layout: post
 title: El flamante alfajor Havanna 70% cacao
 date: 2017-01-30 10:06:20
 slug: el-flamante-havanna-amargo
+permalink: /catador_de_alfajores.github.io/el-flamante-havanna-amargo/
 author: fcalabro
 categories:
   - Reseñas

@@ -3,6 +3,7 @@ layout: post
 title: Mar del Plata, sede del Festival del Alfajor
 date: 2023-04-01 14:49:40
 slug: historia-alfajor-marplatense
+permalink: /catador_de_alfajores.github.io/historia-alfajor-marplatense/
 author: fcalabro
 categories:
   - Dislates

@@ -3,6 +3,7 @@ layout: post
 title: Horror y placer
 date: 2019-04-13 09:00:31
 slug: horror-y-placer
+permalink: /catador_de_alfajores.github.io/horror-y-placer/
 author: fcalabro
 categories:
   - Reseñas

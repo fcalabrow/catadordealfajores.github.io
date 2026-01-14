@@ -3,6 +3,7 @@ layout: post
 title: Alfajor y engendro
 date: 2016-07-13 14:43:23
 slug: alfajor-y-engendro
+permalink: /catador_de_alfajores.github.io/alfajor-y-engendro/
 author: fcalabro
 categories:
   - Reseñas

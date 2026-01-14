@@ -24,9 +24,9 @@ plugins:
   - jekyll-sitemap
 
 # Configuración de posts
-# :name extrae el slug del nombre del archivo (sin fecha y extensión)
-# Ejemplo: 2025-11-18-guolis-pistacho.md → /guolis-pistacho/
-permalink: /:name/  # Coincide con estructura de WordPress (sin fecha)
+# Cada post tiene su permalink explícito en el front matter
+# Esto asegura que las URLs coincidan exactamente con WordPress
+# El permalink se genera automáticamente usando el campo 'slug'
 paginate: 10
 paginate_path: "/page:num/"
 
