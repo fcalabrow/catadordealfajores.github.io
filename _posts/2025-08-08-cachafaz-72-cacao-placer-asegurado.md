@@ -10,15 +10,15 @@ categories:
 ---
 Mientras el ecosistema se arroja desesperadamente al precipicio del pistacho, Cachafaz atiende su propia agenda, a su propio ritmo, con la seguridad del que sabe lo que hace y lo que quiere.
 
-![](/catador_de_alfajores.github.io/assets/images/DSCN0026-1024x768.jpg)
+![](/assets/images/DSCN0026-1024x768.jpg)
 
 De hecho, es probable que haya estado pergeñando este lanzamiento por casi una década, desde aquel verano de 2017 en que Havanna sacó su 70% cacao. Pasa el tiempo y se acumulan las glorias, pero Cachafaz sigue teniendo un único interlocutor. Sólo se mira en un espejo.
 
-![](/catador_de_alfajores.github.io/assets/images/DSCN0080-2-1024x768.jpg)
+![](/assets/images/DSCN0080-2-1024x768.jpg)
 
 Para este segundo round, la estrategia es correr a los marplatenses por el lado de lo "genuino". Nada de redondear porcentajes; nada de harina refinada (se la reemplaza con arroz molido y almidón de maíz), nada de agregados estrafalarios. Pureza minimalista, sans serif.
 
-![](/catador_de_alfajores.github.io/assets/images/DSCN0058-1024x768.jpg)
+![](/assets/images/DSCN0058-1024x768.jpg)
 
 El resultado es bueno y aun buenísimo, quizás debido más a la potencia extraordinaria del chocolate que a algún chispazo surgido de su peculiar combinación. La tapa de almendra, granulosa, promete un poco más de lo que ofrece, tal vez porque entra en conflicto —disputa la crocancia— con esa cobertura letal. Se intenta y se consigue contrastar lo amargo del cacao con un dulce de leche lácteo. El placer está asegurado, la revolución debe esperar.
 

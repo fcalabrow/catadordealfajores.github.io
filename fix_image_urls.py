@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 POSTS_DIR = Path("_posts")
-BASEURL = "/catador_de_alfajores.github.io"  # Debe coincidir con _config.yml
+BASEURL = ""  # Vacío para repositorio catadordealfajores.github.io (debe coincidir con _config.yml)
 
 def fix_image_urls(content):
     """Reemplaza rutas absolutas de imágenes con rutas que usan baseurl."""

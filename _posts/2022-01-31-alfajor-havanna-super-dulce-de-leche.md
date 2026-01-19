@@ -12,9 +12,9 @@ La celebérrima empresa marplatense sacó a relucir un nuevo producto: el alfajo
 
 https://youtu.be/rAuVR1u5KvQ 
 
-No es la primera vez que Havanna elige el verano para dar a conocer un producto: de hecho, es una estrategia publicitaria que viene implementando desde enero 2017, con el lanzamiento del [Havanna 70% cacao](https://catadordealfajores.com/el-flamante-havanna-amargo/). Como en ocasiones anteriores, este nuevo alfajor se podrá conseguir solamente en los locales de la Costa Atlántica durante enero y febrero, y luego llegará a los locales de todo el país.
+No es la primera vez que Havanna elige el verano para dar a conocer un producto: de hecho, es una estrategia publicitaria que viene implementando desde enero 2017, con el lanzamiento del [Havanna 70% cacao](https://catadordealfajores.github.io/el-flamante-havanna-amargo/). Como en ocasiones anteriores, este nuevo alfajor se podrá conseguir solamente en los locales de la Costa Atlántica durante enero y febrero, y luego llegará a los locales de todo el país.
 
-![alfajor havanna super dulce de leche](/catador_de_alfajores.github.io/assets/images/WhatsApp-Image-2022-01-30-at-20.56.48.jpeg)
+![alfajor havanna super dulce de leche](/assets/images/WhatsApp-Image-2022-01-30-at-20.56.48.jpeg)
 
 El Havanna Super Dulce de Leche se destaca por tres características: primero que nada, se trata de una golosina apta para personas celíacas, ya que su masa (hecha de harina de almendras, harina de arroz y almidón de maíz) no contiene gluten. En segundo lugar, tiene un peso de 70 gramos, lo que lo convierte en el alfajor más grande de la marca. Quizás esto explique su precio tan elevado de $185.
 

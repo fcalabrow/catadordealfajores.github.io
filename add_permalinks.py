@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 POSTS_DIR = Path("_posts")
-BASEURL = "/catador_de_alfajores.github.io"  # Cambiar a "" cuando uses dominio personalizado
+BASEURL = ""  # Vacío para repositorio catadordealfajores.github.io
 
 def add_permalink_to_post(file_path):
     """Agrega el permalink al front matter del post."""

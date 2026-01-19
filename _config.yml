@@ -2,13 +2,9 @@
 title: Catador de alfajores
 description: Blog sobre alfajores argentinos
 
-# Configuración actual: GitHub Pages subdirectorio
-# url: https://fcalabrow.github.io
-# baseurl: "/catador_de_alfajores.github.io"  # Subdirectorio donde está el sitio
-
-# Cuando configures el dominio personalizado (catadordealfajores.com), cambia a:
-url: https://catadordealfajores.com
-# baseurl: ""  # Vacío cuando uses dominio personalizado
+# Configuración para GitHub Pages con dominio catadordealfajores.github.io
+url: https://catadordealfajores.github.io
+baseurl: ""  # Vacío para repositorio username.github.io o orgname.github.io
 
 # Configuración de Jekyll
 markdown: kramdown

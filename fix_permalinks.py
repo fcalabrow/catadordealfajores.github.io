@@ -23,7 +23,7 @@ def fix_permalink_in_post(file_path):
         current_permalink = permalink_match.group(1).strip()
         
         # Extraer el slug del permalink (remover baseurl si existe)
-        # Formato actual: /catador_de_alfajores.github.io/guolis-pistacho/
+        # Formato actual: /catadordealfajores.github.io/guolis-pistacho/ (o cualquier baseurl)
         # Formato deseado: /guolis-pistacho/
         slug_match = re.search(r'/([^/]+)/?$', current_permalink)
         if not slug_match:
@@ -66,4 +66,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
