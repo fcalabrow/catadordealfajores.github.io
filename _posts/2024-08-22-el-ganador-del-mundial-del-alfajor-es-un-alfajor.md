@@ -19,19 +19,19 @@ Pero, ¿qué es un alfajor? La historia muestra que se le ha dicho _alfajor_ a c
 
 El mismísimo alfajor árabe tuvo y tiene distintas recetas y formatos, dependiendo de la zona geográfica. Hay obleas, choricitos, etc. ¿Cuál es la "auténtica"? Por supuesto, ninguna tiene dulce de leche.
 
-![](/assets/images/892_alfajor-1-min-1.jpg) ![](/assets/images/PicsArt_11-13-03.30.27-1024x683.jpg) ![](/assets/images/Alfajor-1024x768.jpg) Alfajor sevillano, con forma de chorizo. Alfajor de Jáen, con forma de turrón. Alfajor de Caravaca, circular.
+![]({{ site.baseurl }}/assets/images/892_alfajor-1-min-1.jpg) ![]({{ site.baseurl }}/assets/images/PicsArt_11-13-03.30.27-1024x683.jpg) ![]({{ site.baseurl }}/assets/images/Alfajor-1024x768.jpg) Alfajor sevillano, con forma de chorizo. Alfajor de Jáen, con forma de turrón. Alfajor de Caravaca, circular.
 
 Hay algo curioso en todo esto: los distintos eslabones evolutivos del alfajor no desaparecieron. Al contrario, dieron lugar a variedades "estables" que, siendo un testimonio del pasado (de donde viene su status de "golosina patria", en casos como el nuestro), conviven en el presente. Asumir una definición estricta implica barrer con esa enorme riqueza.
 
-![](/assets/images/Sin-titulo-2-1024x778.jpg)Distintos tipos de alfajores latinoamericanos.
+![]({{ site.baseurl }}/assets/images/Sin-titulo-2-1024x778.jpg)Distintos tipos de alfajores latinoamericanos.
 
 La Real Academia Española da cuatro definiciones. La primera corresponde al alfajor árabe. La segunda, al latinoamericano, con ese "etc." que abre la puerta a infinitas innovaciones. La tercera y la quinta son variantes centroamericanas. Todas ellas, excepto por el facón, provienen del mismo antepasado.
 
-[![](/assets/images/image.png)](https://dle.rae.es/alfajor?m=form)La definición de la RAE.
+[![]({{ site.baseurl }}/assets/images/image.png)](https://dle.rae.es/alfajor?m=form)La definición de la RAE.
 
 El Código Alimentario Argentino tiene su propia definición. Es una definición aún más vaga que la de la RAE, poco útil incluso para un debate legal. Si el debate se reduce a "dos tapas y un relleno", entonces una galletita cualquiera, como la Oreo o la Ópera, también es un alfajor.
 
-[![](/assets/images/image-1.png)](https://www.argentina.gob.ar/sites/default/files/anmat-cap-9-harinas.pdf)La definición del Código Alimentario Argentino.
+[![]({{ site.baseurl }}/assets/images/image-1.png)](https://www.argentina.gob.ar/sites/default/files/anmat-cap-9-harinas.pdf)La definición del Código Alimentario Argentino.
 
 Pero esa vaguedad no tiene por qué ser un problema. Al contrario, es lo que le ha dado al alfajor la flexibilidad necesaria para [adaptarse a los vientos de época](https://catadordealfajores.github.io/eso-no-es-un-alfajor/). Tal vez ahí resida la clave de su éxito: en ese tironeo entre pasado y futuro, tradición y vanguardia.
 

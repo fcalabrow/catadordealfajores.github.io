@@ -30,7 +30,7 @@ _“El escritor se limita a imitar un gesto siempre anterior, nunca original; el
 
 _Creo que a esto se refería Bioy con lo de “la superstición de la bibliografía”. Parece hecho a medida de la crítica el relato de la creación de Bustos-Domecq (que es equivalente a decir, el ingreso definitivo a la literatura) como resultado de una imposición externa, social; como la irremediable aceptación de un límite caprichoso sobre cuya fragilidad se fundaría (ya se estaba fundando) buena parte de la literatura borgiana._  
 
-![](/assets/images/lamartona.jpg)
+![]({{ site.baseurl }}/assets/images/lamartona.jpg)
 
 ### **La Leche Cuajada de La Martona. Estudio dietético sobre las leches ácidas.**
 
