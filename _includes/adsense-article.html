@@ -1,0 +1,14 @@
+{% if site.adsense_client %}
+{% assign _ad_slot = site.adsense_article_slot | default: "" | strip %}
+{% if _ad_slot != "" %}
+<div class="ad-article">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ site.adsense_client }}"
+         data-ad-slot="{{ _ad_slot }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}
+{% endif %}

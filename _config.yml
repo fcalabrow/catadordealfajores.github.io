@@ -31,6 +31,10 @@ paginate_path: "/page:num/"
 category_dir: categories
 tag_dir: tags
 
+# Google AdSense (anuncios automáticos + unidad al pie de cada post si definís adsense_article_slot)
+adsense_client: ca-pub-5752964850475184
+adsense_article_slot: ""
+
 # Configuración de autor
 author:
   name: Facundo Calabró
